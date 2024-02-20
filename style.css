@@ -13,10 +13,7 @@ body {
     background-color: aliceblue;
     font-family: 'Poppins', sans-serif;
 }
-.wrapper{
-    max-width: 700px;
-    margin: 0 auto;
-}
+
 .container {
     max-width: 400px !important;
     margin: 0 auto;
