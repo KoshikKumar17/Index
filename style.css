@@ -26,6 +26,11 @@ body {
     font-size: 20px;
 }
 
+.container button {
+    margin: 20px 0;
+    width: 100%;
+}
+
 .container p {
     padding: 5px;
     padding-top: 10px;
